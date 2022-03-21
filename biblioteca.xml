@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+<biblioteca xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/xampp/htdocs/CENEC%202021/LM%202021/1%C2%BA%20Trimestre/ProyectoFinalLibros/ProyectoFinalLibros/biblioteca.xsd">
+  <libro>
+    <titulo> Miki</titulo>
+    <autor>Milan Kundera</autor>
+    <foto>miki.webp</foto>
+    <fechaPublicacion año="2003"/>
+  </libro>
+  <libro>
+    <titulo>Senda</titulo>
+    <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
+    <foto>senda.webp</foto>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <titulo>Summer</titulo>
+    <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
+    <foto>summer.webp</foto>
+    <fechaPublicacion año="1969"/>
+  </libro>
+</biblioteca>
